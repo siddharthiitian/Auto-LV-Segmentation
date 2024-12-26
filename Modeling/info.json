@@ -1,0 +1,17 @@
+{
+    "Patient ID": "ct_test_seg",
+    "Start Phase": 0,
+    "Total Phase": 0,
+    "Image Name": "",
+    "Output Surface Model Name": "test5.vtk",
+    "Output Dir Name": "output",
+    "Segmentation Name": "test5_seg.nii.gz",
+    "Image Top Dir": "examples",
+    "Segmentation Folder Name": "",
+    "Image Folder Name": "wall_motion_labels",
+    "Mask Folder Name": "wall_motion_labels",
+    "Number of Interpolations": 199,
+    "Number of Cardiac Cycles": 1,
+    "Cycle Duration (s)": 1,
+    "Mesh Size": 2.5
+}
